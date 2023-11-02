@@ -1,0 +1,62 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    background-color: #e2edff;
+    margin-top: 50px;
+}
+
+nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container{
+    position: sticky;
+}
+
+#about{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 5px;
+}
+
+h2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-shadow: 5px;
+}
+
+.card{
+    text-align: center;
+    background-color: #e2edff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.card-text{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#project{
+    background-color: #e2edff;
+}
+
+#contacts{
+    margin-top: 20px;
+}
+
+footer { 
+    background-color: #00A9FF;
+    text-align: center;
+    color: #97feed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%; 
+    margin-top: 50px;
+}
